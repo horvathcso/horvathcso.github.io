@@ -9,7 +9,7 @@ permalink: /O-blog/O-blog
 
 <img style="float: right; margin: 0px 5px;" src="https://lh3.googleusercontent.com/pw/AJFCJaWqv8X7Rg_fTleBgAkJ-7jGXljNBrKOURwrSvNo4bfRiFpXcCrxO_Ouy3oCSVhcdZVX1aYca_pj21GXFBA3F9SFrfsMIzstp3GZyEs78PSuwdUJ2QZoMpIjSUJTTIh-JD2FvpiH1zGFxs4u6jKAn_3fyQ=w1190-h893-s-no?authuser=0" alt="Profile picture" width="200" height="150">
 
-<img style="float: right; margin: 0px 5px; " src="/img/cso_linne.jpg" alt="Profile picture" width="225" height="150"> 
+<img style="float: right; margin: 0px 5px; " src="/img/cso_linne.JPF" alt="Profile picture" width="225" height="150"> 
 
 Welcome to my orienteering blog page. I has several top 3 results from Hungarian Championships and I was part of the Hungarian youth national team for 4 year. Currently I am living in Uppsala, where I am a member of the local orienteering club OK Linné, where right now I am attending trainings regularly. My goal and current motivation is to get into a good physical and technical shape to be able to make the national team in 2024 for the forest European Championships, which will be held in Hungary.
 

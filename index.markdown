@@ -5,7 +5,7 @@ subtitle: Home
 ---
 # Greetings, esteemed visitors!
 
-<img style="float: right; margin: 5px 20px;" src=".\img\profil.jpg" alt="Profile picture" width="20%" height="20%">
+<img style="float: right; margin: 5px 20px;" src=".\img\profil.JPG" alt="Profile picture" width="20%" height="20%">
 Allow me to introduce myself. I am Csongor, an ardent enthusiast of **mathematics**, **programming**, and the captivating sport of **orienteering**. So if you are interested in any of these you may find interesting contents in my site.
 
 My academic journey has taken me through the hallowed halls of ELTE in Budapest, Hungary, where I pursued a bachelor's degree in pure mathematics. Presently, I am pursuing a master's degree in computational science at Uppsala University in Sweden. These years of dedicated study have granted me invaluable insights into the field. Although I received excellent grades during my studies, I must admit that I am unable to hold all of this information in my head.
