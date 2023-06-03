@@ -34,9 +34,9 @@ Additional information may be found on my [LinkedIn page](https://www.linkedin.c
 
 *If you have job opportunities or collaborative projects, including both profitable and nonprofit ventures, where my skills in mathematics and programming could contribute, please **don't hesitate to contact me** using my [email address.](mailto:sifuto2013@gmail.com)*
 <object style="border-radius:20px;" data="/files/Csongor_Horvath_cv.pdf" type="application/pdf" width="800px" height="1200px">
-    <embed src="/assets/Csongor_Horvath_cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/Csongor_Horvath_cv.pdf">Download PDF</a>.</p>
-    </embed>
+    <embed src="/assets/Csongor_Horvath_cv.pdf"></embed>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Csongor_Horvath_cv.pdf">Download PDF</a>.</p>
+    
 </object>
 
 
