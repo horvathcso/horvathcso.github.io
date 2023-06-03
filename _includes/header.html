@@ -1,0 +1,164 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{%- include header_sty.html -%}
+
+
+<header>
+
+    <meta charset="utf-8">
+
+    {% if page.path contains '_posts' %}
+    <h1>Csongor's Orienteering blog</h1>
+    {% else %}
+    <h1>{{ page.title}}</h1>
+    {% endif %}
+
+    
+
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'subtitle' | join: '' | size -%}
+
+    
+    <nav>
+        <ul class="menu">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+
+
+
+          <li class="has-dropdown">
+            <a href="{{ site.baseurl }}/Edu/Base">Education</a>
+            <ul class="sub-menu">
+
+              <li class="has-dropdown">
+                <a href="{{ site.baseurl }}/Edu/mat_mod/mat_mod">Mathematical modelling</a>
+                <ul class="sub-menu second-column">
+                  <li><a href="{{ site.baseurl }}/Edu/mat_mod/Optim">Optimization</a></li>
+                  {% comment %}
+                  <li><a href="#">Mathematical Programing</a></li>
+                  <li><a href="#">Genetic algorithm</a></li>
+                  <li><a href="#">Swarm optimization</a></li>
+                  <li><a href="#">Networks</a></li>
+
+                  <li><a href="#">Dynamical Systems</a></li>
+                  <li><a href="#">Chaos theory</a></li>
+                  <li><a href="#">Differential equation</a></li> 
+                  <li><a href="#">Cellular automaton</a></li>
+                  <li><a href="#">Agent-Based Modeling</a></li>
+                  
+                  <li><a href="#">Stochastic Processes</a></li>
+                  <li><a href="#">Monte Carlo method</a></li>
+                  <li><a href="#">Brown motion</a></li>
+                  <li><a href="#">MArkov process</a></li>
+
+                  <li><a href="#">Boids modell</a></li>
+                  <li><a href="#">Swarm inteligence</a></li>
+                  
+                  <li><a href="#">Game theory</a></li>
+                  {% endcomment %}
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#">Optimization</a>
+                <ul class="sub-menu second-column">
+                  {% comment %}
+                  <li><a href="#">Combinatorial optimization</a></li>
+                  <li><a href="#">Discrete</a></li>
+                  <li><a href="#">Convex optimization</a></li>
+                  <li><a href="#">Non-Convex optimization</a></li>
+                  <li><a href="#">Constraind vs unconstrained</a></li>
+                  <li><a href="#">Stochastic optimization</a></li>
+
+                  <li><a href="#">Mathematical Programing</a></li>
+                  
+                  <li><a href="#">Gradient based methods</a></li>
+                  <li><a href="#">Lagrangian multiolier</a></li>
+
+                  <li><a href="#">Genetic algorithm and evolutionary algorithm</a></li>
+                  <li><a href="#">Swarm optimization</a></li>
+                  <li><a href="#">Spiral optimization algorithm</a></li>
+                  
+                  <li><a href="#">Dynamical Programming</a></li>
+
+                  <li><a href="#">Symplex method</a></li>
+                  <li><a href="#">Quadratic programming</a></li>
+                  {% endcomment %}
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#">Machine Learning</a>
+                <ul class="sub-menu second-column">
+                  {% comment %}
+                  <li><a href="#">Neural networks</a></li>
+                  <li><a href="#">Generative AI</a></li>
+
+                  <li><a href="#">Decision trees</a></li>
+                  <li><a href="#">Support vector machine</a></li>
+                  <li><a href="#">Regression analysis</a></li>
+                  <li><a href="#">Clustering</a></li>
+                  <li><a href="#">Baysean classifier</a></li>
+
+                  <li><a href="#">Supervised Learning</a></li>
+                  <li><a href="#">Unsupervised Learning</a></li>
+                  <li><a href="#">Reinforcement Learning</a></li>
+                  {% endcomment %}
+                </ul>
+              </li>
+              
+              <li class="has-dropdown">
+                <a href="#">Coding</a>
+                <ul class="sub-menu second-column">
+                  {% comment %}
+                  <li><a href="#">My projects</a></li>
+                  <li><a href="#">HPP</a></li>
+                  <li><a href="#">Useful materials</a></li>
+                  {% endcomment %}
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#">Other topics</a>
+                <ul class="sub-menu second-column">
+                  {% comment %}
+                  <li><a href="#">Fourier transformation</a></li>
+                  <li><a href="#">measure theory and probability</a></li>
+                  <li><a href="#">Useful materials</a></li>
+                  {% endcomment %}
+                </ul>
+              </li>
+              
+              {% comment %}
+              <li class="has-dropdown">
+                Submenu 2
+                <ul class="sub-menu second-column">
+                  <li><a href="#">Submenu 2 Item 1</a></li>
+                  <li><a href="#">Submenu 2 Item 2</a></li>
+                </ul>
+              </li>
+              {% endcomment %}
+            </ul>
+          </li>
+
+
+
+          <li class="has-dropdown">
+            <a href="{{ site.baseurl }}/O-blog/O-blog">O-blog</a>
+            <ul class="sub-menu">
+              <li class="has-dropdown"><a href="{{ site.baseurl }}/O-blog/Achivements">Achivements</a></li>
+            </ul>
+          </li>
+
+
+
+          <li class="has-dropdown">
+            <a href="{{ site.baseurl }}/about/about">About me</a>
+            <ul class="sub-menu">
+              <li><a href="{{ site.baseurl }}/about/cv">CV  </a></li>
+            </ul>
+          </li>
+
+        </ul>
+      </nav>
+  </header>

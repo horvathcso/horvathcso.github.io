@@ -1,0 +1,33 @@
+figure {
+    text-align: center;
+  }
+  
+  figure > img {
+    display: inline-block;
+  }
+  
+  figcaption {
+    color: $grey-color;
+  }
+  
+  .pdf-screenshots {
+    display: flex;
+    flex-wrap: wrap;
+  
+    figure {
+      width: 50%;
+    }
+  
+    img {
+      border: solid $grey-color-light 1px;
+      height: auto;
+    }
+  }
+  
+  .featured-image {
+    height: auto;
+    margin-bottom: 1ex;
+  }
+
+  
+  
