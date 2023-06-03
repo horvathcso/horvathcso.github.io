@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
 // Define defaults for each variable.
 
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
@@ -29,11 +35,13 @@ $on-laptop:        1200px !default;
 
 // Use media queries like this:
 @include media-query($on-palm) {
-   .wrapper {
-     padding-right: $spacing-unit / 2;
-     padding-left: $spacing-unit / 2;
-   }
- }
+  .wrapper {
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+}
+
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;

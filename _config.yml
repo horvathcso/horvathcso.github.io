@@ -23,12 +23,7 @@ emal:
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: # the subpath of your site, e.g. /blog
 url: horvathcso.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username: horvathcso
-linkedin_username: horvathcso
-facebook_username: csongor horváth
-github_url: https://github.com/horvathcso
-linkedin_url: https://www.linkedin.com/in/horvathcso/
-facebook_url: https://www.facebook.com/profile.php?id=100009835808994
+
 
 show_excerpts: true
 
@@ -37,6 +32,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+
+minima:
+  social_links:
+    - { platform: github, username: "horvathcso", user_url: "https://github.com/horvathcso" }
+    - { platform: linkedin, username: "horvathcso", user_url: "https://www.linkedin.com/in/horvathcso/" }
+    - { platform: facebook, username: "Csongor Horváth", user_url: "https://www.facebook.com/profile.php?id=100009835808994" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
