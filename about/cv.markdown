@@ -2,7 +2,7 @@
 title: Csongor Horváth CV
 layout: default
 ---
-<img style="float: right; margin: 5px 20px; border-radius:20px; " src="\img\profil4.jpg" alt="Profile picture" width="30%" height="30%">
+<img style="float: right; margin: 5px 20px; border-radius:20px; " src="\img\profil4.JPG" alt="Profile picture" width="30%" height="30%">
 
 # Professional Introduction
 ## Background
