@@ -4,7 +4,7 @@ title: About
 subtitle: About
 permalink: /about/about
 ---
-<img style="float: right; margin: 5px 20px;" src=".\img\profil3.jpg" alt="Profile picture" width="50%" height="50%">
+<img style="float: right; margin: 5px 20px;  border-radius:20px; " src="\img\profil3.jpg" alt="Profile picture" width="30%" height="30%">
 
 This site contains an informal introduction about my interest's and hobbies. My professional interest consist of the following areas: discrete mathematics, graph theory, optimization, numerical modeling, mathematical modeling, networks, data analytics, low-level and parallel programming (using C), and the fields of AI and machine learning.
 : If you want to know more about my professional interest's please visit my [CV site](/about/cv.markdown), or my [Educational site.](/Knowledge.markdown) 
