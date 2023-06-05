@@ -75,4 +75,4 @@ Here I list some general recommendation about learning the above topics includin
 ---
 ---
 
-[^1]: source: [https://ewkiss.web.elte.hu/wp/wordpress/education/math-jokes/#4](https://ewkiss.web.elte.hu/wp/wordpress/education/math-jokes/#4)
+[^1]: [source](https://ewkiss.web.elte.hu/wp/wordpress/education/math-jokes/#4)
