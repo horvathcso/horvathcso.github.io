@@ -41,10 +41,12 @@ Here is the collection of the materials I produced. Most of this materials can b
 - [Mathematical Modelling](/Edu/mat_mod/mat_mod)
     - Optimization
         - Mathematical Programing
-        - Genetic Algorithm
-        - Swarm optimization
-    - Game Theory
+        - Genetic Algorithm (Metaheuristic)
+        - Queueing theory
+        - Dynamical programing
+        - Graph algorithms / network flows
     - Networks
+    - Game Theory
     - Dynamical systems
         - Chaos theory
         - Modelling with differential equation
@@ -58,9 +60,16 @@ Here is the collection of the materials I produced. Most of this materials can b
 
 - Optimization
 
-- Machine Learning
+- Machine Learning 
 
 - Coding
+
+- Graph theory - []
+
+- Numerical modelling
+
+- Theory of computation - [textbook](https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf)
+
 
 
 ---
