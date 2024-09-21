@@ -7,6 +7,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
+      {%- if post.categories contains "Oblog" -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">
@@ -25,10 +26,10 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed/" | relative_url }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed/" | relative_url }}">via RSS</a></p>  -->
   {%- endif -%}
 
 </div>

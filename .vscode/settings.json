@@ -1,0 +1,12 @@
+{
+    "spellright.language": [
+        "Hungarian",
+        "en-US-10-1.",
+        "en_US"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
