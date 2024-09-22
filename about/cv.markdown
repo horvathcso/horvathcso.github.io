@@ -1,6 +1,6 @@
 ---
 title: Csongor Horváth CV
-layout: default
+layout: test
 ---
 
 <img style="float: right; margin: 5px 20px; border-radius:20px; " src="\img\profil4.JPG" alt="Profile picture" width="30%" height="30%">
@@ -14,7 +14,7 @@ In addition to these areas, during my bachelor I became familiar with and intere
 
 During my master's degree, I began to show a deep interest in new fields in computer science, as I gained more insight into the given subject. One of which was the numerical modeling of differential equations, primarily using FEM and FDM. Still on the theoretical side, I found a deeper interest for mathematical modeling, during my class on modeling complex systems.
 In addition, I was lucky enough to learn about low-level and parallel programming using C/C++/CUDA and pthread/MP/MPI, which I also liked.
-: I chose my Master thesis topics as the most interesting I could find in the topics of Optimization in the university. I ended up studiing ill-posed optimization for neural networks and inverse-problems. The focus was on the understanding of the landscape of the loss function and it's relation with generalization as well as controlling the quality of the soluition during the optimization process. During this I gained experience implementing state of the art methods for training neural networks and studied the possible applications on toy problems of a modified version of SAM (Sharpness-Aware minimization), one of the currently known best optimization method for neural networks. 
+: I chose my Master thesis topics as the most interesting I could find in the topics of Optimization in the university. I ended up studying ill-posed optimization for neural networks and inverse-problems. The focus was on the understanding of the landscape of the loss function and it's relation with generalization as well as controlling the quality of the solution during the optimization process. During this I gained experience implementing state-of-the-art methods for training neural networks and studied the possible applications on toy problems of a modified version of SAM (Sharpness-Aware minimization), one of the currently known best optimization method for neural networks. It had the title [Studying Solution Quality for Ill-Posed Optimization Problems](https://uu.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=csongor+horvath&language=en&pid=diva2%3A1878299&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-8555).   
 
 ## Work experience
 <img style="float: right; margin: 5px 20px; border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczM7q_77UPophhFcrMMK3RE3XGyTinqta5IuxduR1AMPom4ikoO1TVLUad8i61b7JdLHLOlDb-ohlIyiNrVBMLmThdUC-hH7kU4WHHv93UVGKTP0vAdp=w2400" alt="Profile picture" width="30%" height="30%">
@@ -35,6 +35,8 @@ I am started my PhD under the supervision of Prashant Sing, where I am expected 
 ## Background
 I grew up in Budapest, Hungary, where my passion for mathematics and algorithms began during my early years. Participating in math competitions from the second grade onwards nurtured my love for problem-solving. Throughout high school, I excelled in both math and physics competitions, achieving outstanding results. While I learned programming during this time, my primary interest remained focused on the mathematical theory behind computations and due to lack of preparation and interest I havn't achived significant results in competitive programming.
 
+<img style="float: left; margin: 5px 20px;  border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczPqA9vhn_cJTutd_XrZcNJ3Q7kQet4pYAOkjb-1fB_YqK5BAjWzVdGwl47UZBE5RKDTF2QhetM7wOKocJyseLrzcHe2fEqWtj5tIavp-h6NnIYzKxhs=w2400" alt="Profile picture" width="30%" height="30%">
+
 In the last 6 years of my high school I was studiing in the advanced math class of [Szent István Gimnázium](https://szigbp.hu/), where I learned a lot from my teachers (Ildikó Molnár-Séska and Péter Juhász) in the area of maths as well as from my classmates, whic motivated me at the day-to-day work. 
 During this time I also participated in weekend math camps organized by the [Joy of Thinking Foundation](https://en.agondolkodasorome.hu/). These camps, designed for the country's most talented students, allowed me to work alongside exceptional peers such as Dávid Matolcsi and Dávid Szabó, who were renowned math talents in our grade an part of the IMO team. Under the guidance of Péter Juhász and Lajos Pósa, I honed my skills and developed a deep appreciation for logical thinking and mathematics. I am excepionally gratful for Péter, who not just in the weekend camps, but also in my regular math class had a lasting effect on me not just in the area of mathematics, but also as a person. He also influenced my later academics career significantly.
 
@@ -44,13 +46,17 @@ Alongside my batchelor studies, I joined the organizing team of the [Dürer Comp
 
 During the first two year of my studies, I also participated in the correction process of the maths problems for [KÖMAL](https://www.komal.hu/home.h.shtml), a monthly problem-solving contest for high school students.
 
-In 2022, I served as the head of the organizing committee for the [TIPO Cup](https://adatbank.mtfsz.hu/esemeny/show/esemeny_id/7741), a regular orienteering competition hosted by my club, which attracted around 500 participants for all of it's three stages. 
-
 <img style="float: left; margin: 5px 20px; border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczPJS823FbPF61saroXOrLfeE8kMSNEFpukPR5zQ4sFcAgGa7BfdXBNheglBSqaaaYOpNmJAfrN1bvGLx7_l0hY7nrn3cEqbc-KMsASRIFI1CSrdaM1P=w2400" alt="EGMO" width="30%" height="30%">
+
+In 2022, I served as the head of the organizing committee for the [TIPO Cup](https://adatbank.mtfsz.hu/esemeny/show/esemeny_id/7741), a regular orienteering competition hosted by my club, which attracted around 500 participants for all of it's three stages. 
 
 I also volunteered as a guide at the European Girls' Mathematical Olympiad (EGMO) in 2022 held in Eger, Hungary. There I had the chance to get to know a bunch of the brightest math talent in the word and organize free time activities for them.
 
 In 2020 I also gained membership based on my academics merits to the Maths and Phisics group of the [Eötvös József College for Advanced Studies](https://eotvos.elte.hu/departmens/matematika-fizika-muhely?m=9342). Engaging in extracurricular math and language lessons within a stimulating intellectual environment proved immensely rewarding. I also had the opportunity to tought math to younger students there, where I shared insight into topics for which I am passionate about such as chordal graphs and greeko-latin squares. I actively participated in social activities within the college. These activities ranged from the organization of camps welcoming new students and participating in several board meetings to actively geting involved in the sport activities, leading hikes and having fun in the college's basement club by dancing or discussing math until 4 p.m. in almost every Thursdays. These social activities revarded me with unforgetable memories and lasting friendships next to the knowledge gained in the professional workshops.
+
+
+<img style="float: right; margin: 5px 20px;  border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczPrKf41du-Dr4DFwmbSBlqJMKur3DwDctdvy8WDo1M8_ykW-9zmCbwuhvpqZn8x8gQKeILFnNn56YkDlQBt0iw1MBSsRtJeR7l6ei6_Meh7RkzSNshe=w2400" alt="ELTE grad" width="30%" height="30%">
+
 
 ## Bachelor's Thesis and Academic Achievement
 After graduating high school with an excellent diploma, I pursued a Bachelor's degree in pure mathematics at [ELTE](https://www.math.elte.hu/en/). The program offered a strong theoretical foundation, renowned as one of the best in Europe. 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: test
 title: Csongor Horváth personal webpage
 subtitle: Home
 ---
