@@ -18,8 +18,13 @@ Even though for many the above proof would seem correct at the first glance, it 
 ---
 ---
 
-# TBD
-<!--
+# Under development
+
+My goal is to organize some of my notes into accessable format, write about topics I am interested in and create though provoking articles. The writing of such things take time and I only spend some of my free time doing it, but I hope with time I will realize at least some of my ambitions to share knowledge in my site.
+
+For now I am updating the extended version of my handwritten lecture notes on latine squears, which can be found [here](/Edu/notes/latin-squares).
+
+<!-- TBD
 # Content collection
 
 I produce the content of this site mainly for my own sake, but if you have questions, suggestion or requests feel free to reach out. I am also glad if you report any error/mistake you encounter.
@@ -77,11 +82,11 @@ Here is the collection of the materials I produced. Most of this materials can b
 
 As a current organizer I can recommend to all interested in competitive math at the highest level to participate in the international edition of the Durer competition. For participant, it is free and there are usually many interesting problems created by former IMO team members. As a teacher you can also apply to be an official location where local children can participate in person. In this case the possibility to translate to your own language is given. Details can be found at [durerinfo.hu](https://durerinfo.hu/durer-in-english/durer-in-english-take-part-in-the-competition/). If you have any question email [maths@durerinfo.hu](mailto:maths@durerinfo.hu).
 
-### Studiing at ELTE
+### For STEM students at ELTE
 
-- I can only encourage peoples interested in pursuing a STEM career in Hungary to attend the math BSc at ELTE as there are great teachers and great students. As the program structure has changed a few years ago I can't share much valuable insight about the current courses.
+- I can only encourage peoples interested in pursuing a STEM career in Hungary to attend the math BSc at ELTE as there are great teachers and great students. As the program structure has changed a few years ago I am only partially up to date with the current structure, but if you have questions feel free to reach out to me.
 - I strongly recommend joining an advanced study college there. Either the [Bolyai Collage](https://www.bolyai.elte.hu/) focusing on STEM or the [Eötvös College](www.eotvos.elte.hu), which is interdisciplinary and welcomes nearly any discipline.
-- I can suggest participating in some voluntary maths program such as joining the [Matematika Összeköt egyesület](https://www.medvematek.hu/rolunk/szervezok), or progams of the Joy of Thinking Foundation, such as organizing the [Durer competition](https://durerinfo.hu/) or the [Repülő Iskola](https://agondolkodasorome.hu/tevekenysegeink/repulo-iskola/). These organizations can be welcoming even if your main interest is not in mathematics.
+- I can suggest participating in some voluntary program such as joining the [Matematika Összeköt egyesület](https://www.medvematek.hu/rolunk/szervezok), or progams of the Joy of Thinking Foundation, such as organizing the [Durer competition](https://durerinfo.hu/) or the [Repülő Iskola](https://agondolkodasorome.hu/tevekenysegeink/repulo-iskola/). These organizations can be welcoming even if your main interest is not in mathematics.
 
 
 ### For Hungarian school students

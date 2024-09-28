@@ -56,7 +56,7 @@ From around the age of 10 till 16 I also participated in national level cross-co
 </div>
 
 ## Other hobbies
-- Drawing orienteering maps
+- [Drawing orienteering maps](https://www.google.com/maps/d/edit?mid=1Ex_pjx_X_lY9d6-wSuxPHmpYelWw5po&usp=sharing)
 - Hiking
 - Watching movies
 - Going out or having conversations with friends

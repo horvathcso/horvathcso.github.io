@@ -12,7 +12,7 @@ permalink: /about/research
 > My Phd is focuses on enhancing scalability and understanding of large-scale optimization in inverse problems and machine learning models, particularly ill-posed non-convex optimization. 
 > The considered applications include 1D-time searies representing protein/mRNA copy numbers and microscopy images.
 
-*Theoretical mathematical research on graph reconstruction, collaboration with [Zoltán Blázsik](https://blazsik.web.elte.hu/) (partial results, no published result yet)*
+<!--*Theoretical mathematical research on graph reconstruction, collaboration with [Zoltán Blázsik](https://blazsik.web.elte.hu/) (partial results, no published result yet)* TBD-->    
 
 ## Master thesis [(on diva)](https://uu.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=csongor+horvath&language=en&pid=diva2%3A1878299&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4614)
 

@@ -17,20 +17,20 @@ In addition, I was lucky enough to learn about low-level and parallel programmin
 : I chose my Master thesis topics as the most interesting I could find in the topics of Optimization in the university. I ended up studying ill-posed optimization for neural networks and inverse-problems. The focus was on the understanding of the landscape of the loss function and it's relation with generalization as well as controlling the quality of the solution during the optimization process. During this I gained experience implementing state-of-the-art methods for training neural networks and studied the possible applications on toy problems of a modified version of SAM (Sharpness-Aware minimization), one of the currently known best optimization method for neural networks. It had the title [Studying Solution Quality for Ill-Posed Optimization Problems](https://uu.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=csongor+horvath&language=en&pid=diva2%3A1878299&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-8555).   
 
 ## Work experience
+
+### PhD candidate at Uppsala University IT department (2024 Sep-)
+
+I am started my PhD under the supervision of Prashant Sing, where I am expected to continou the work we started during my master thesis and get deeper insigths into the optimization and learning process of machine learning and inverze problems. I am specially excited about the interesting applications in real life data for life science.
+
+### Yettel Hungary Internship (2024 Jul-Sep)    
 <img style="float: right; margin: 5px 20px; border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczM7q_77UPophhFcrMMK3RE3XGyTinqta5IuxduR1AMPom4ikoO1TVLUad8i61b7JdLHLOlDb-ohlIyiNrVBMLmThdUC-hH7kU4WHHv93UVGKTP0vAdp=w2400" alt="Profile picture" width="30%" height="30%">
+
+During my internship I get the experience to work in the in house development team in Yettel under [Ferenc Hegedűs](https://www.linkedin.com/in/ferenc-hegedus-a62679209/). I was working using scrum an agile sofware development framwork. The taks were involving full-stack JAVA development in the new services of the company. 
 
 ### MasterCard Summer Internship (2023 Jun-Aug)
 
 During my time in the team of MasterCard D&S I worked closely with [Szabolcs Tüske](https://www.linkedin.com/in/szabolcstuske/), my main tasks concerned modelling of fraud predictions based on available data for a client and preparing presentation regarding the project based on our modell and available experts knowledge on fraud prevention in the companies database. I also earned enourmous support from my people meneger [Anna Emese Takács](https://www.linkedin.com/in/annaemesetakacs/), who tried to introduce me into the more data analytics part of the work being done at Mastercard. 
 : I really enjoyed the youthful and energized athmosphere during my internship even though my main strength lies in the theoretical knowlege and not in the consultant part of the processes. I am also hapy that together with my international team of interns we achived 1st place in the Mastercard summer intern innovation challange with our idea of making payment more inclusive for underprivileged by easily implementable IT solutions. 
-
-### Yettel Hungary Internship (2024 Jul-Sep)    
-
-During my internship I get the experience to work in the in house development team in Yettel under [Ferenc Hegedűs](https://www.linkedin.com/in/ferenc-hegedus-a62679209/). I was working using scrum an agile sofware development framwork. The taks were involving full-stack JAVA development in the new services of the company. 
-
-### PhD candidate at Uppsala University IT department (2024 Sep-)
-
-I am started my PhD under the supervision of Prashant Sing, where I am expected to continou the work we started during my master thesis and get deeper insigths into the optimization and learning process of machine learning and inverze problems. I am specially excited about the interesting applications in real life data for life science.
 
 ## Background
 I grew up in Budapest, Hungary, where my passion for mathematics and algorithms began during my early years. Participating in math competitions from the second grade onwards nurtured my love for problem-solving. Throughout high school, I excelled in both math and physics competitions, achieving outstanding results. While I learned programming during this time, my primary interest remained focused on the mathematical theory behind computations and due to lack of preparation and interest I havn't achived significant results in competitive programming.
