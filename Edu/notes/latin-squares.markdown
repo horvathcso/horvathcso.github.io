@@ -15,7 +15,7 @@ At around 16 years old this was the mathematical formulation I come up with. Thr
 
 
 ## Lecture Notes
-### Part 1 - Introduction $$^{[1]}$$
+### Part 1 - Introduction [^1]
 
 **Definitions:** (*Latin rectangle, Latin square, normalized, reduced*)
 <p>A <Strong>Latin rectangle</Strong> of size \( k \times n \) (\(n \leq k\)) is an \( k \times n \) array \( L \) with symbols from \( Z_n \) (the set of symbols {1, 2, ..., n}), such that each row and each column contains only distinct symbols. If \( k = n \), then \( L \) is a <Strong>Latin square</Strong> of order \( n \).</p> 
@@ -34,7 +34,7 @@ At around 16 years old this was the mathematical formulation I come up with. Thr
 
 ---
 
-**Question 1:** Does an n-th order Latin rectangle exist for all values of  n?
+**Question 1:** Does an $$n\times k$$ Latin rectangle exist for all values of  $$n, k$$?
 
 <div class="dropdown">
   <button class="dropdown-button">Click for hint</button>
@@ -44,7 +44,7 @@ At around 16 years old this was the mathematical formulation I come up with. Thr
     <div class="dropdown">
       <button class="dropdown-button">Click for the answer</button>
       <div class="dropdown-content">
-        <p>Answer: Suppose \(k\leq n\), if you number the rows and columns from 1 to k and 1 to n, in the i-th row and j-th column, place the value \( (i + j - 1) \mod n + 1 \). This forms a Latin rectangle.</p>
+        <p>Answer: Without loss of generalization suppose \(k\leq n\), if you number the rows and columns from 1 to k and 1 to n, in the i-th row and j-th column, place the value \( (i + j - 1) \mod n + 1 \). This forms a Latin rectangle.</p>
 
         General Construction for Any \( n, k \):
 
@@ -100,15 +100,13 @@ At around 16 years old this was the mathematical formulation I come up with. Thr
 
 ---
 
-*Notes:* In general the number of latin rectangles, or squars are not known. There are known results, which gives exact formula using combinatorial calculations, but the exact number is calculated for latin squares up to n = 11.
+*Notes:* In general the number of latin rectangles, or squars are not known in a closed form. There are known results, which gives exact formula using combinatorial calculations. Exact number is known up to $$n=11$$ since 2005 [^3].
 
-Assimptotics results are known, which give us a feeling how fast the number of latin squares are growing $$^{[2]}$$:
+Assimptotics results are known, which give us a feeling how fast the number of latin squares are growing [^2]:
 
 $$ L_{n,n} \sim  (\frac{n}{e^2}) ^{n^2} $$
 
-- [1] Stones, Douglas S. “The Many Formulae for the Number of Latin Rectangles.” The Electronic Journal of Combinatorics, June 14, 2010, A1–A1. [https://doi.org/10.37236/487](https://doi.org/10.37236/487).
-- [2] Timashov, A.N.. (2002). On permanents of random doubly stochastic matrices and asymptotic estimates of the numbers of Latin rectangles and Latin squares. Discrete Mathematics and Applications. 12., p. 431–452, [https://doi.org/10.1515/dma-2002-0502](https://doi.org/10.1515/dma-2002-0502) 
-
+---
 ---
 
 <!--
@@ -119,3 +117,16 @@ $$ L_{n,n} \sim  (\frac{n}{e^2}) ^{n^2} $$
 -->
 
 ### To be continued...
+
+
+
+
+---
+---
+---
+
+[^1]: Stones, Douglas S. “The Many Formulae for the Number of Latin Rectangles.” The Electronic Journal of Combinatorics, June 14, 2010, A1–A1. [https://doi.org/10.37236/487](https://doi.org/10.37236/487).
+
+[^2]: Timashov, A.N.. (2002). On permanents of random doubly stochastic matrices and asymptotic estimates of the numbers of Latin rectangles and Latin squares. Discrete Mathematics and Applications. 12., p. 431–452, [https://doi.org/10.1515/dma-2002-0502](https://doi.org/10.1515/dma-2002-0502) 
+
+[^3]: McKay, B.D., Wanless, I.M. On the Number of Latin Squares. Ann. Comb. 9, 335–344 (2005). [https://doi.org/10.1007/s00026-005-0261-7](https://doi.org/10.1007/s00026-005-0261-7)

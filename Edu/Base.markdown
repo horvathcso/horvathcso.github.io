@@ -18,7 +18,7 @@ Even though for many the above proof would seem correct at the first glance, it 
 ---
 ---
 
-# Under development
+# Sewction is under development
 
 My goal is to organize some of my notes into accessable format, write about topics I am interested in and create though provoking articles. The writing of such things take time and I only spend some of my free time doing it, but I hope with time I will realize at least some of my ambitions to share knowledge in my site.
 
