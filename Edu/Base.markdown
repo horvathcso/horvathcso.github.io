@@ -14,11 +14,11 @@ permalink: Edu/Base/
 
 Even though for many the above proof would seem correct at the first glance, it is trivial that the statement is not true. I started this page with this to point out the importance of mathematics, because what would happen to us in a world where there are only blonds:)
 
-
 ---
 ---
 
-# Sewction is under development
+<br>
+# Section is under development
 
 My goal is to organize some of my notes into accessable format, write about topics I am interested in and create though provoking articles. The writing of such things take time and I only spend some of my free time doing it, but I hope with time I will realize at least some of my ambitions to share knowledge in my site.
 
@@ -70,26 +70,33 @@ Here is the collection of the materials I produced. Most of this materials can b
 ---
 ---
 
-## Recommendations - for problem-solving enthusiastic
+<br>
 
-### General recommendations
+---
+---
+
+<br>
+
+# Recommendations - for problem-solving enthusiastic
+
+## General recommendations
 
 - I strongly recommend to all the videos of Grant Sanderson on the channel of [3blue1brown](www.3blue1brown.com)
 - For computer assisted problem-solving tasks I recommend the [Project Euler](https://projecteuler.net/) site
 
 
-### For non-Hungarian high school students and teachers
+## For non-Hungarian high school students and teachers
 
 As a current organizer I can recommend to all interested in competitive math at the highest level to participate in the international edition of the Durer competition. For participant, it is free and there are usually many interesting problems created by former IMO team members. As a teacher you can also apply to be an official location where local children can participate in person. In this case the possibility to translate to your own language is given. Details can be found at [durerinfo.hu](https://durerinfo.hu/durer-in-english/durer-in-english-take-part-in-the-competition/). If you have any question email [maths@durerinfo.hu](mailto:maths@durerinfo.hu).
 
-### For STEM students at ELTE
+## For STEM students at ELTE
 
 - I can only encourage peoples interested in pursuing a STEM career in Hungary to attend the math BSc at ELTE as there are great teachers and great students. As the program structure has changed a few years ago I am only partially up to date with the current structure, but if you have questions feel free to reach out to me.
 - I strongly recommend joining an advanced study college there. Either the [Bolyai Collage](https://www.bolyai.elte.hu/) focusing on STEM or the [Eötvös College](www.eotvos.elte.hu), which is interdisciplinary and welcomes nearly any discipline.
 - I can suggest participating in some voluntary program such as joining the [Matematika Összeköt egyesület](https://www.medvematek.hu/rolunk/szervezok), or progams of the Joy of Thinking Foundation, such as organizing the [Durer competition](https://durerinfo.hu/) or the [Repülő Iskola](https://agondolkodasorome.hu/tevekenysegeink/repulo-iskola/). These organizations can be welcoming even if your main interest is not in mathematics.
 
 
-### For Hungarian school students
+## For Hungarian school students
 
 For Hungarian high school students interested in the STEM disciplines I am wholeheartedly recommending all activities of the [Joy of Thinking foundation](https://agondolkodasorome.hu/). If you are interested in math competitions you should visit the [https://agondolkodasorome.medium.com/](https://agondolkodasorome.medium.com/) site, where there are suggested competitions and activities based on age groups and interests from the begining of school up until adulthood.  
 
