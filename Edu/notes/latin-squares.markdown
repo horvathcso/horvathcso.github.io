@@ -22,9 +22,9 @@ At around 16 years old this was the mathematical formulation I come up with. Thr
 
 <p>Let \( L_{k,n} \) be the number of \( k \times n \) Latin rectangles.</p>
 
-<p>A Latin rectangle is called <Strong>normalized</Strong> if the first row is \( (0, 1, \ldots, n-1) \).</p>
+<p>A Latin rectangle is called <Strong>normalized</Strong> if the first row is \( (1, 2, \ldots, n) \).</p>
 
-<p>A Latin rectangle is called <Strong>reduced</Strong> if it is normalized and the first column is \( (0, 1, \ldots, k-1)^T \).</p>
+<p>A Latin rectangle is called <Strong>reduced</Strong> if it is normalized and the first column is \( (1, 2, \ldots, k)^T \).</p>
 
 <p>Let \( K_{k,n} \) denote the number of normalized \( k \times n \) Latin rectangles, and let \( R_{k,n} \) denote the number of reduced \( k \times n \) Latin rectangles.</p>
 

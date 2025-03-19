@@ -30,8 +30,10 @@ show_excerpts: true
 # Build settings
 theme: minima
 plugins:
+  - jekyll-last-modified-at
   - jekyll-feed
   - jekyll-seo-tag
+  
 
 
 minima:

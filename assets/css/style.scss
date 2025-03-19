@@ -1,0 +1,30 @@
+/* Style the summary to mimic an h3 header */
+.collapsible summary {
+    display: block;               /* Make it a block-level element */
+    font-size: 1.17em;            /* Typical h3 size (adjust as needed) */
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    cursor: pointer;
+    background-color: #f0f0f0;    /* Light background to mimic header look */
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Optional: Remove default marker styling */
+  .collapsible summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  /* Style the details content if desired */
+  .collapsible p {
+    padding: 1em;
+    margin: 0;
+    background-color: #faf3e0;    /* Vintage paper color */
+  }
+  
+  /* Optionally add a visual indicator when open */
+  .collapsible[open] summary {
+    border-bottom: none;
+    border-bottom: 1px solid #8B4513;  /* Warm brown when open */
+  }
+  

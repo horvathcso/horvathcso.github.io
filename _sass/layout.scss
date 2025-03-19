@@ -168,3 +168,44 @@
     margin-right: 1em;
  }
  
+
+
+ /* Style the summary to mimic an h3 header */
+.collapsible summary {
+   display: block;               /* Make it a block-level element */
+   font-size: 1.7em;            /* Typical h3 size (adjust as needed) */
+   margin: 0;
+   padding: 0.5em;
+   cursor: pointer;
+   background-color: #f0f0f0;    /* Light background to mimic header look */
+   border-bottom: 1px solid #ccc;
+ }
+ 
+ /* Optional: Remove default marker styling */
+ .collapsible summary::-webkit-details-marker {
+   display: none;
+ }
+ 
+ /* Style the details content if desired */
+ .collapsible p {
+   padding: 1em;
+   margin: 0/* ;
+   background-color: #faf3e0;    Vintage paper color */
+ }
+ 
+ /* Optionally add a visual indicator when open */
+ .collapsible[open] summary {
+   border-bottom: none;
+   border-bottom: 1px solid #8B4513;  /* Warm brown when open */
+ }
+ 
+
+ .last-updated {
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  border-top: 1px solid #e0e0e0;
+  font-style: italic;
+}

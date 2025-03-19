@@ -1,11 +1,17 @@
+{% if page.last_modified_at %}
+          <p class="last-updated">
+            Page last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+          </p>
+        {% endif %}
 
-<footer class="site-footer h-card">
-    <div class="wrapper">
+<footer class="site-footer h-card">  
+  <div class="wrapper">
       <div class="footer-col-wrapper">
         {%- include social.html -%}
       </div>
 
       <p style="text-align: center;">
+
         Built with <a href="https://jekyllrb.com/">Jekyll</a>, hosted by <a href="https://pages.github.com/">GitHub Pages</a> <!-- | <a href="https://github.com/horvathcso/horvathcso.github.io">View repository</a> <br> -->
         <br /> Created by Csongor Horváth | All rights reserved | email: <a href="mailto:csongor.horvath@it.uu.se">csongor.horvath@it.uu.se</a> 
         {%- if jekyll.environment == 'production' -%}

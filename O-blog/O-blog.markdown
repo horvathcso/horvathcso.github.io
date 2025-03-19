@@ -1,13 +1,15 @@
 ---
 layout: home
-title: Csongor's Orienteering blog  
-subtitle: O-blog
+title: Csongor's Sports blog  
+subtitle: Sports blog
 permalink: /O-blog/O-blog
 ---
 
-Welcome to my orienteering blog page. I has several top 3 results from age group Hungarian Championships and I was part of the Hungarian youth national team for 4 year. Currently I am living in Uppsala, where I am a member of the local orienteering club OK Linné, where I am attending trainings regularly. 
+Welcome to my sport blog page, here I mostly focus on orienteering, but also share things about my other sport related interests. 
 
-Despite not being in my top form I got the chance to represent Hungary in the 2024 European Championships in home soil.
+I have several top 3 result from age group Hungarian Championships (not just in orienteering, but also track running and cross-country skiing). I was part of the Hungarian youth orienteering national team for 4 year. Currently, I am living in Uppsala, where I am a member of the local orienteering club OK Linné, where I am attending trainings regularly. 
+
+Despite not being in my top form I got the chance to represent Hungary in the 2024 European Championships in home soil, where I competed in the long distance.
 
 <div class="grid-container">
     <figure>
@@ -26,7 +28,9 @@ Despite not being in my top form I got the chance to represent Hungary in the 20
 
 
 
-My aim is to write about my current competition and training journey here. Additionally I may write about my past experiences in the orienteering world. 
+My aim is to document my current sport journey, mostly for myself, but maybe others find it interesting to read as well. Additionally, I may write about my past events as well. 
+
+As lately I am struggling to find motivation for training, my aim is to attempt to run sub 15min 5000m before the end of 2026. And get prepared for that while enjoying racing and training in orienteering as well.
 
 You can find some of my past result and achievements in the [Achievements page](/O-blog/Achievements)
 
