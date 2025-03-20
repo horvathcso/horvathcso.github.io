@@ -3,6 +3,7 @@ layout: home
 title: Csongor's Sports blog  
 subtitle: Sports blog
 permalink: /O-blog/O-blog
+blog: Oblog
 ---
 
 Welcome to my sport blog page, here I mostly focus on orienteering, but also share things about my other sport related interests. 

@@ -24,11 +24,16 @@
         <ul class="menu">
           <li><a href="{{ site.baseurl }}/">Home</a></li>
 
-          <li><a href="{{ site.baseurl }}/about/research">Research</a></li>
+          <li class="has-dropdown">
+            <a href="{{ site.baseurl }}/about/research">Research</a>
+            <ul class="sub-menu">
+              <li><a href="{{ site.baseurl }}/about/phd">PhD</a></li>
+            </ul>
+          </li>
 
           <li class="has-dropdown">
             <a href="{{ site.baseurl }}/Edu/Base">Education</a>
-            <!-- <ul class="sub-menu">
+            <!-- <ul class="sub-menu">  
 
               <li class="has-dropdown">
                 <a href="{{ site.baseurl }}/Edu/mat_mod/mat_mod">Mathematical modelling</a>

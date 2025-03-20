@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "TDB!"
+date:   2025-03-20 7:00:00 +0200
+excerpt: "PhD life in my department!"
+author: Csongor
+category: TDBlog
+home: /about/phd
+---
+<button type="button" class="btn" onclick="location.href='{{page.home}}'">back</button>
+
+
+# TDB!
