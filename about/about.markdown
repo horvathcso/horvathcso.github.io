@@ -1,6 +1,6 @@
 ---
 layout: test
-title: About
+title: About me
 subtitle: About
 permalink: /about/about
 ---

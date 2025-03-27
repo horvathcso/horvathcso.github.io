@@ -83,7 +83,7 @@ Here is the collection of the materials I produced. Most of this materials can b
          For computer assisted problem-solving tasks I recommend the <a href="https://projecteuler.net/">Project Euler</a> site
     </li>
     <li>
-         If you want to learn about LLMs and modern AI systems in depth I strungly recommend  <a href="https://www.youtube.com/@AndrejKarpathy/videos">Andrej Karpathy's videos</a>
+         If you want to learn about LLMs and modern AI systems in depth I strongly recommend  <a href="https://www.youtube.com/@AndrejKarpathy/videos">Andrej Karpathy's videos</a>
     </li>
     </ul>
 </details>
