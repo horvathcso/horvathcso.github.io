@@ -6,9 +6,9 @@ permalink: /about/research
 
 # Research and Scientific works
 
-## Ongoing research
+## Ongoing PhD in Scientific Machine Learning
 
-**PhD** *research in the Scientific Computing Division of Uppsala University (2024-) under the supervision of [Prashant Singh](https://www.prashantsingh.se/) (partial results, no published result yet)*
+**PhD** *research in the Scientific Computing Division of Uppsala University (2024-) under the supervision of [Prashant Singh](https://www.prashantsingh.se/) in the [Scientific Machine Learning group](https://sciml.se/) (results not yet published)*
 > My Phd is focuses on enhancing scalability and understanding of large-scale optimization in inverse problems and machine learning models, particularly ill-posed non-convex optimization. 
 > The considered applications include simulation based inference for 1D-time series representing protein/mRNA copy numbers and microscopy images.
 
