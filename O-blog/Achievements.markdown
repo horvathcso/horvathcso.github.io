@@ -29,7 +29,7 @@ Secondly, I need to mention my father, who created my childhood orienteering clu
 
 # National level orienteering results
 
-From *National Level Orienteering Competition* I have **11 gold** (8 individual, 3 team), **4 silver** and ** bronze** medals ranging from U14 to senior level.
+From *National Level Orienteering Competition* I have **11 gold** (8 individual, 3 team), **4 silver** and **bronze** medals ranging from U14 to senior level.
 
 <details class="collapsible">
   <summary>List of top national orienteering results</summary>
@@ -507,7 +507,7 @@ From *National Level Athletics Competition* I have **12 gold** (4 individual, 8 
 </tr>
 </table>
 
-This might not be a full list of my national level results and errors and typos may occur. Until the year 2017 I was running for my childhood club of [IKARUS BSE](https://www.ikarusatletika.hu/) under id. Tomhauser István, since than I was competing for [KSI](ksi.hu) under Kárai Kázmér.
+<p>This might not be a full list of my national level results and errors and typos may occur. Until the year 2017 I was running for my childhood club of <a href="https://www.ikarusatletika.hu/" target="_blank">IKARUS BSE</a> under id. Tomhauser István, since then I was competing for <a href="https://ksi.hu" target="_blank">KSI</a> under Kárai Kázmér.</p>
 </details>
 
 

@@ -7,7 +7,7 @@ permalink: /about/about
 <img style="float: right; margin: 5px 20px;  border-radius:20px; " src="\img\profil3.jpg" alt="Profile picture" width="20%" height="20%">
 
 This site contains an informal introduction about my interest's and hobbies. Long and detailed description of my professional interest and career can be found in the [CV site](/about/cv).
-: **\[TL;DR\]** *Professional Interests:* discrete mathematics, graph theory, optimization, numerical modeling, mathematical modeling, networks, data analytics, low-level and parallel programming (using C), and machine learning.
+: **\[TL;DR\]** *Professional Interests:* non-convex optimization for machine learning, inverse mappings, discrete mathematics, numerical and mathematical modeling, low-level and parallel programming.
 
 # Hobbies and interest
 ## Joy of sports
