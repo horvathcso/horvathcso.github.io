@@ -501,7 +501,7 @@ From *National Level Athletics Competition* I have **12 gold** (4 individual, 8 
 <tr>
   <td>2022</td>
   <td>Hungarian Cross Country Championships</td>
-  <td>U23</td>
+  <td>Senior</td>
   <td>Team</td>
   <td>1st place</td>
 </tr>

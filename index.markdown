@@ -3,7 +3,7 @@ layout: test
 title: Csongor Horváth personal webpage
 subtitle: Home
 ---
-# Welcome!
+## Welcome to my personal webpage!
 
 <img style="float: right; margin: 5px 20px;  border-radius:20px; " src="\img\profil.JPG" alt="Profile picture" width="20%" height="20%">
 My name is Csongor. I am an enthusiast of **mathematics**, **programming**, and a sport enthusiastics with my main focus on **orienteering**. So if you are interested in any of these topics you might find interesting contents in my site.
