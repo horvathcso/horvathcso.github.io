@@ -22,6 +22,8 @@ In addition, I was lucky enough to learn about low-level and parallel programmin
 
 I am started my PhD under the supervision of Prashant Sing, where I am expected to continue the work we started during my master thesis and get deeper insights into the optimization and learning process of machine learning and inverse problems. I am specially excited about the interesting applications in real life data for life sciences.
 
+[More details](/about/phd)
+
 ### Yettel Hungary Internship (2024 Jul-Sep)    
 <img style="float: right; margin: 5px 20px; border-radius:20px; " src="https://lh3.googleusercontent.com/pw/AP1GczM7q_77UPophhFcrMMK3RE3XGyTinqta5IuxduR1AMPom4ikoO1TVLUad8i61b7JdLHLOlDb-ohlIyiNrVBMLmThdUC-hH7kU4WHHv93UVGKTP0vAdp=w2400" alt="Profile picture" width="30%" height="30%">
 
