@@ -31,6 +31,11 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - UPCOMING (2025 HT)
     - Teaching assistant for *1TD354 Scientific Computing for Partial Differential Equations* (5.0hp)
 
+## Presentations other speaches
+
+- 2025
+    - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
+
 ## Courses / Credits taken so far (36.5 / 70.0)
 
 - 7.5hp Advanced probabilistic machine learning - FTN0204 (2024 HT) 
@@ -40,7 +45,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - 2.0hp Ethics of Technology and Science, part I - FTN0001 (2025 VT)
 - 2.0hp Summer school on Generative modelling, [GEMSS and Statlearn](https://gemss.ai/2025/) (2025 VT)
 - 7.5hp [Probability Theory and Statistics](https://www.troscheit.eu/news/phdcourse/) by the maths department (2025 VT)
-- 5.0hp Techniques and Technologies forScientific Software Engineering - FTN0439 (2025 VT)
+- 5.0hp Techniques and Technologies for Scientific Software Engineering - FTN0439 (2025 VT)
 
 ### Future planed courses
 
