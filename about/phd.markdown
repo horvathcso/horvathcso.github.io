@@ -7,7 +7,7 @@ blog: PhDblog
 
 # PhD in Scientific Computing (IT department, Uppsala University) Sept 2024 -
 
-This page documents the progress of my PhD in Scientific Computing. The program is expected to take approximately five years and includes:
+This page documents the progress of my PhD in Uppsala as part of the [Scientific Machine Learning](https://sciml.se) research group. The program is expected to take approximately five years and includes:
 
 - At least 70 credits (hp) of coursework
 - One year of departmental duties, including teaching and supervision
