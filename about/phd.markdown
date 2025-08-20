@@ -31,9 +31,10 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - UPCOMING (2025 HT)
     - Teaching assistant for *1TD354 Scientific Computing for Partial Differential Equations* (5.0hp)
 
-## Presentations other speaches
+## Other university affiliated activities
 
 - 2025
+    - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
     - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
 
 ## Courses / Credits taken so far (36.5 / 70.0)
