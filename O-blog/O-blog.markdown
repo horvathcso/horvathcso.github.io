@@ -44,5 +44,5 @@ You can find some of my past result and achievements in the [Achievements page](
 
 ---
 ---
-# Blog - Coming Soon
+# Blog 
 ---

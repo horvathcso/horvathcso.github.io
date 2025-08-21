@@ -7,7 +7,7 @@ blog: PhDblog
 
 # PhD in Scientific Computing (IT department, Uppsala University) Sept 2024 -
 
-This page documents the progress of my PhD in Scientific Computing. The program is expected to take approximately five years and includes:
+This page documents the progress of my PhD in Uppsala as part of the [Scientific Machine Learning](https://sciml.se) research group. The program is expected to take approximately five years and includes:
 
 - At least 70 credits (hp) of coursework
 - One year of departmental duties, including teaching and supervision
@@ -31,6 +31,12 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - UPCOMING (2025 HT)
     - Teaching assistant for *1TD354 Scientific Computing for Partial Differential Equations* (5.0hp)
 
+## Other university affiliated activities
+
+- 2025
+    - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
+    - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
+
 ## Courses / Credits taken so far (36.5 / 70.0)
 
 - 7.5hp Advanced probabilistic machine learning - FTN0204 (2024 HT) 
@@ -40,7 +46,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - 2.0hp Ethics of Technology and Science, part I - FTN0001 (2025 VT)
 - 2.0hp Summer school on Generative modelling, [GEMSS and Statlearn](https://gemss.ai/2025/) (2025 VT)
 - 7.5hp [Probability Theory and Statistics](https://www.troscheit.eu/news/phdcourse/) by the maths department (2025 VT)
-- 5.0hp Techniques and Technologies forScientific Software Engineering - FTN0439 (2025 VT)
+- 5.0hp Techniques and Technologies for Scientific Software Engineering - FTN0439 (2025 VT)
 
 ### Future planed courses
 
