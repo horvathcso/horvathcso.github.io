@@ -34,6 +34,8 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 ## Other university affiliated activities
 
 - 2025
+    - Participation in the two day internal TDB conference.
+    - SciLifeLab Uppsala Spring Mini-symposium (presenting my poster). 
     - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
     - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
 
@@ -47,13 +49,13 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - 2.0hp Summer school on Generative modelling, [GEMSS and Statlearn](https://gemss.ai/2025/) (2025 VT)
 - 7.5hp [Probability Theory and Statistics](https://www.troscheit.eu/news/phdcourse/) by the maths department (2025 VT)
 - 5.0hp Techniques and Technologies for Scientific Software Engineering - FTN0439 (2025 VT)
-- 1.5hp An introduction to topological data analysis, persistent homology and applications
+- 1.5hp An introduction to topological data analysis, persistent homology and applications - Stefano De Marchi (2025 HT)
 
 ### Future planed courses
 
 - 10.0hp [Statistical Learning for Data Science](https://d3c-group.github.io/courses/statistical/) (2025 HT)
 - 7.5hp Academic Teacher Training Course (2025 HT)
-- 5.0hp Mathematical foundations of scientific computing (2025 HT)
+- 7.5hp Mathematical foundations of scientific computing (2025 HT)
 - 5.0hp Simulation technologies (2026 VT)
 
 ### Summer Schools
