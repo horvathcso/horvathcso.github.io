@@ -19,7 +19,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - *2025 VT*
     - **Co-Supervising master thesis projects** with Prashant Singh:
         - Viktor Bergstedt: 
-            - Thesis Simulating Complex Particle Dynamics with Graph Neural Networks 
+            - Thesis [Simulating Complex Particle Dynamics with Graph Neural Networks](https://uu.diva-portal.org/smash/get/diva2:1984785/FULLTEXT01.pdf) 
             - Other work: [BiTrain](https://github.com/BitTrain/bittrain) an experimental regression package based on bitwise classification
         - Alessia Rossi: 
             - Research project: *Adaptive Covariance Estimation in Convex Multi-Objective Optimization (ongoing)*
@@ -37,7 +37,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
     - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
     - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
 
-## Courses / Credits taken so far (36.5 / 70.0)
+## Courses / Credits taken so far (38.0 / 70.0)
 
 - 7.5hp Advanced probabilistic machine learning - FTN0204 (2024 HT) 
 - 5.0hp Statistical Machine Learning - FTN0061 (2024 HT)
@@ -47,6 +47,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - 2.0hp Summer school on Generative modelling, [GEMSS and Statlearn](https://gemss.ai/2025/) (2025 VT)
 - 7.5hp [Probability Theory and Statistics](https://www.troscheit.eu/news/phdcourse/) by the maths department (2025 VT)
 - 5.0hp Techniques and Technologies for Scientific Software Engineering - FTN0439 (2025 VT)
+- 1.5hp An introduction to topological data analysis, persistent homology and applications
 
 ### Future planed courses
 
