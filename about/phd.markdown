@@ -41,8 +41,8 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 
 ## Courses / Credits taken so far (38.0 / 70.0)
 
-- 7.5hp Advanced probabilistic machine learning - FTN0204 (2024 HT) 
-- 5.0hp Statistical Machine Learning - FTN0061 (2024 HT)
+- 7.5hp [Advanced probabilistic machine learning](https://www.uu.se/en/study/course?query=1RT705) - FTN0204 (2024 HT) 
+- 5.0hp [Statistical Machine Learning](https://www.uu.se/en/study/course?query=1RT700) - FTN0061 (2024 HT)
 - 4.0hp Numerical Linear Algebra - FTN0577 (2024 HT)
 - 3.5hp Numerical Optimization - FTN0578 (2024 HT)
 - 2.0hp Ethics of Technology and Science, part I - FTN0001 (2025 VT)
@@ -54,7 +54,7 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 ### Future planed courses
 
 - 10.0hp [Statistical Learning for Data Science](https://d3c-group.github.io/courses/statistical/) (2025 HT)
-- 7.5hp Academic Teacher Training Course (2025 HT)
+- 7.5hp [Academic Teacher Training Course](https://www.uu.se/en/staff/employment/continuing-professional-development/courses-for-employees/academic-teacher-training-course) (2025 HT)
 - 7.5hp Mathematical foundations of scientific computing (2025 HT)
 - 5.0hp Simulation technologies (2026 VT)
 
