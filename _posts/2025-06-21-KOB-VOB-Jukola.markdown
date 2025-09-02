@@ -104,6 +104,15 @@ I started with a 30 sec mistake to the first controll, then not counting some sm
 In the end I was 19th with a tie of 40:18, 7:17 behind. Probably I would have ran faster with a later start time as there were some dense part which made me very slow, but it would have been still my worth ever placement in a championship probably.
 
 ### Relay
+<div class="info-box-container">
+    <h3>Relay Champs 2025 (Mecsek)</h3>
+    <ul>
+        <li> 2nd place (+1:17 SPA)</li>
+        <li>leg 43:11 (+4:22 Daniil)</li>
+        <li><a href="https://www.livelox.com/Viewer/Valto-OB/F21E/2?classId=979037&relayLeg=2&tab=player" target="_blank" rel="noopener noreferrer">Livelox</a>, 
+        <a href="https://admin.mtfsz.hu/fajl/get/fajl_id/34868/tipus/render#F21A" target="_blank" rel="noopener noreferrer">Results</a></li>
+    </ul>
+</div>
 
 On Sunday, the Relay Championship took place. Based on our middle-distance performance earlier in the weekend, we knew that winning was out of reach, but a podium finish was still a realistic and motivating goal.
 
