@@ -35,8 +35,10 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 
 - 2025
     - Participation in the two day internal TDB conference.
+    - Excursion to Scania with [Uppsala Universities Student Chapter of SIAM](https://www.uu.se/en/department/information-technology/research/computational-science/siam-chapter). Program: *Lectures on R&D and industrial positions and their scope. Additionally test driving tracks and buses.*
+    - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. 
     - SciLifeLab Uppsala Spring Mini-symposium (presenting my poster). 
-    - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
+    ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
     - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
 
 ## Courses / Credits taken so far (38.0 / 70.0)
@@ -56,7 +58,6 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 - 10.0hp [Statistical Learning for Data Science](https://d3c-group.github.io/courses/statistical/) (2025 HT)
 - 7.5hp [Academic Teacher Training Course](https://www.uu.se/en/staff/employment/continuing-professional-development/courses-for-employees/academic-teacher-training-course) (2025 HT)
 - 7.5hp Mathematical foundations of scientific computing (2025 HT)
-- 5.0hp Simulation technologies (2026 VT)
 
 ### Summer Schools
 

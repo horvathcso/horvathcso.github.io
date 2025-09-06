@@ -493,16 +493,16 @@ From *National Level Athletics Competition* I have **12 gold** (4 individual, 8 
 </tr>
 <tr>
   <td>2022</td>
-  <td>Hungarian Relay Championships</td>
+  <td>Hungarian Cross Country Championships</td>
   <td>U23</td>
-  <td>4x800m</td>
+  <td>Team</td>
   <td>1st place</td>
 </tr>
 <tr>
   <td>2022</td>
-  <td>Hungarian Cross Country Championships</td>
+  <td>Hungarian Relay Championships</td>
   <td>Senior</td>
-  <td>Team</td>
+  <td>4x800m</td>
   <td>1st place</td>
 </tr>
 </table>
@@ -513,7 +513,7 @@ From *National Level Athletics Competition* I have **12 gold** (4 individual, 8 
 
 # Cross-country skiing
 
-From *National Level Cross-Country Competition* I have **7 gold**, **4 silver** between the age of 10 and 15. I additionally have a few other medals from later years and from ski orienteering competitions.
+From *National Level Cross-Country Skiing Competition* I have **7 gold**, **4 silver** between the age of 10 and 15. I additionally have a few other medals from later years and from ski orienteering competitions.
 
 <details class="collapsible">
   <summary>List of top cross-country skiing results</summary>

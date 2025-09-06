@@ -25,6 +25,8 @@ My goal is to organize some of my notes into accessable format, write about topi
 
 For now, I am updating the extended version of my handwritten lecture notes on Latin squares, which can be found [here](/Edu/notes/latin-squares).
 
+My translated lecture notes in pdf on my session held in the Eötvös József College's Natural Science Camp's Maths section for high school students ([notes](/Edu/notes/Matchings_2025_TTT.pdf)).
+
 <!-- TBD
 # Content collection
 
