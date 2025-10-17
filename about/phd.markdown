@@ -34,11 +34,12 @@ Currently, I am in my first year and primarily focused on coursework, familiariz
 ## Other university affiliated activities
 
 - 2025
-    - Participation in the two day internal TDB conference.
+    - Participation in my divisions two day internal conference.
     - Excursion to Scania with [Uppsala Universities Student Chapter of SIAM](https://www.uu.se/en/department/information-technology/research/computational-science/siam-chapter). Program: *Lectures on R&D and industrial positions and their scope. Additionally test driving tracks and buses.*
     - [Impact hack 2025](https://www.ai.se/en/sector-initiatives/municipalities-and-civil-society/ai-impact/impact-hack-2025). Our university division team (Team-TDB) delivered a project for the  Hjärt-Lungfonden in the scope of this hackatlon. ([Our demo](https://m.youtube.com/watch?v=G3PuStKkyb8))
     - SciLifeLab Uppsala Spring Mini-symposium (presenting my poster). 
-    - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf))
+    - Invited to held a lecture at Eötvös József College's Natural Science Camp Math section for high school students ([translated lecture notes](/Edu/notes/Matchings_2025_TTT.pdf)).
+    - Participated and presented my poster in the [Swedish e-Science Academy 2025](https://www.essenceofescience.se/w/es/en/calendar/archive/2025-10-15-swedish-e-science-academy-2025).
 
 ## Courses / Credits taken so far (38.0 / 70.0)
 
